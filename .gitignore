@@ -36,3 +36,6 @@ src/Data/TimelessJewelData/*.bin
 
 # Simplegraphic Debugging
 runtime/imgui.ini
+
+# Alias for quickly starting the dev version
+rundev.*
